@@ -1,0 +1,24 @@
+C:\Users\uvo\source\repos\NSTP Management System\NSTP Management System\bin\x86\Debug\NSTP Management System.exe.config
+C:\Users\uvo\source\repos\NSTP Management System\NSTP Management System\bin\x86\Debug\NSTP Management System.exe
+C:\Users\uvo\source\repos\NSTP Management System\NSTP Management System\bin\x86\Debug\NSTP Management System.pdb
+C:\Users\uvo\source\repos\NSTP Management System\NSTP Management System\bin\x86\Debug\System.Data.OleDb.dll
+C:\Users\uvo\source\repos\NSTP Management System\NSTP Management System\bin\x86\Debug\System.Data.OleDb.xml
+C:\Users\uvo\source\repos\NSTP Management System\NSTP Management System\obj\x86\Debug\NSTP Management System.csproj.AssemblyReference.cache
+C:\Users\uvo\source\repos\NSTP Management System\NSTP Management System\obj\x86\Debug\NSTP Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\uvo\source\repos\NSTP Management System\NSTP Management System\obj\x86\Debug\NSTP_Management_System.Form1.resources
+C:\Users\uvo\source\repos\NSTP Management System\NSTP Management System\obj\x86\Debug\NSTP_Management_System.frmAdminDashboard.resources
+C:\Users\uvo\source\repos\NSTP Management System\NSTP Management System\obj\x86\Debug\NSTP_Management_System.frmAdminLogin.resources
+C:\Users\uvo\source\repos\NSTP Management System\NSTP Management System\obj\x86\Debug\NSTP_Management_System.frmEmail.resources
+C:\Users\uvo\source\repos\NSTP Management System\NSTP Management System\obj\x86\Debug\NSTP_Management_System.frmPrintShiftingForm.resources
+C:\Users\uvo\source\repos\NSTP Management System\NSTP Management System\obj\x86\Debug\NSTP_Management_System.frmRegistration.resources
+C:\Users\uvo\source\repos\NSTP Management System\NSTP Management System\obj\x86\Debug\NSTP_Management_System.frmShiftingForm.resources
+C:\Users\uvo\source\repos\NSTP Management System\NSTP Management System\obj\x86\Debug\NSTP_Management_System.frmStudentDashboard.resources
+C:\Users\uvo\source\repos\NSTP Management System\NSTP Management System\obj\x86\Debug\NSTP_Management_System.frmStudentInfocs.resources
+C:\Users\uvo\source\repos\NSTP Management System\NSTP Management System\obj\x86\Debug\NSTP_Management_System.lgnStudent.resources
+C:\Users\uvo\source\repos\NSTP Management System\NSTP Management System\obj\x86\Debug\NSTP_Management_System.Login.resources
+C:\Users\uvo\source\repos\NSTP Management System\NSTP Management System\obj\x86\Debug\NSTP_Management_System.Properties.Resources.resources
+C:\Users\uvo\source\repos\NSTP Management System\NSTP Management System\obj\x86\Debug\NSTP Management System.csproj.GenerateResource.cache
+C:\Users\uvo\source\repos\NSTP Management System\NSTP Management System\obj\x86\Debug\NSTP Management System.csproj.CoreCompileInputs.cache
+C:\Users\uvo\source\repos\NSTP Management System\NSTP Management System\obj\x86\Debug\NSTP Management System.csproj.CopyComplete
+C:\Users\uvo\source\repos\NSTP Management System\NSTP Management System\obj\x86\Debug\NSTP Management System.exe
+C:\Users\uvo\source\repos\NSTP Management System\NSTP Management System\obj\x86\Debug\NSTP Management System.pdb
